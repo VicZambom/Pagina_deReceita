@@ -5,10 +5,10 @@ Este projeto é uma página web estática que apresenta uma receita culinária, 
 
 📸 Preview
 
-![Preview da Página de Receita](https://raw.githubusercontent.com/VicZambom/Pagina_deReceita/main/assets/preview.png)
+![Preview da Página de Receita](assets/preview.png)
 
 
 🚀 Tecnologias utilizadas
 HTML – estrutura da página
-
 CSS – estilização e layout
+FIGMA - design base
