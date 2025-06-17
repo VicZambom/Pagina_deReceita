@@ -1,15 +1,16 @@
 # Pagina de Receita
 
-📝 Descrição
+####📝 Descrição
 
 Este projeto é uma página web estática que apresenta uma receita culinária, utilizando HTML e CSS. Um mini-projeto inicial desenvolvido a partir da trilha Fullstack da Rocketseat, com o objetivo de praticar a estruturação de conteúdo e aplicação de estilos em páginas web.
 
-📸 Preview
+####📸 Preview
 
 ![Preview da Página de Receita](assets/preview.png)
 
 
-🚀 Tecnologias utilizadas
+####🚀 Tecnologias utilizadas
+
 HTML – estrutura da página
 
 CSS – estilização e layout
